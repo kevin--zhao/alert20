@@ -1,1 +1,2 @@
 export(fbm)
+export(madValid)
