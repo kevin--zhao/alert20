@@ -11,5 +11,5 @@ LazyData: true
 Collate:
     'alert20-package.r'
     'fbm.R'
-    'mad.R'
     'plotReport.R'
+    'madValid.R'
