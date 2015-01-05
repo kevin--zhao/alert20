@@ -1,0 +1,12 @@
+Package: alert20
+Title: test package
+Description: no specific description
+Version: 0.1
+Author: Kevin Zhao <zhao182y@gmail.com>
+Maintainer: Kevin Zhao <zhao182y@gmail.com>
+Depends:
+    R (>= 2.15.3)
+License: MIT
+LazyData: true
+Collate:
+    'alert20-package.r'
