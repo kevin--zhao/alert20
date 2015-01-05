@@ -13,3 +13,4 @@ Collate:
     'fbm.R'
     'plotReport.R'
     'madValid.R'
+    'applyAlertMethod.R'

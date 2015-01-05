@@ -1,3 +1,5 @@
+export(applyAlertMethod)
 export(fbm)
 export(madValid)
 export(plotReport)
+import(ggplot2)
