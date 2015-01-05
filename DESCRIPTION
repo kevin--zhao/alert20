@@ -10,3 +10,4 @@ License: MIT
 LazyData: true
 Collate:
     'alert20-package.r'
+    'fbm.R'
