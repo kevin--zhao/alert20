@@ -1,2 +1,3 @@
 export(fbm)
 export(madValid)
+export(plotReport)
